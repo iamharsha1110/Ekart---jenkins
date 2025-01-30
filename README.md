@@ -1,4 +1,4 @@
-# Spring Boot Shopping Cart Web App (cron-test)
+# Spring Boot Shopping Cart Web App (cron-test-2)
 
 ## About
 
