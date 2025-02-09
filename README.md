@@ -1,4 +1,4 @@
-# Spring Boot Shopping Cart Web App (webhook-test)
+# Spring Boot Shopping Cart Web App (slack test)
 
 ## About
 
