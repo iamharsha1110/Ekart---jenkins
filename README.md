@@ -1,4 +1,4 @@
-# Spring Boot Shopping Cart Web App (webhook & slack integration testing - feb 10th)
+# Spring Boot Shopping Cart Web App (webhook & slack integration final test - feb 10th)
 
 ## About
 
